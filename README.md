@@ -1,9 +1,11 @@
 # TheLook eCommerce Analytics
 
-مشروع تحليل بيانات تجارة إلكترونية (TheLook eCommerce).
+مشروع تحليل بيانات تجارة إلكترونية متكامل (TheLook eCommerce) مبني باستخدام أدوات تحليل البيانات المتقدمة.
 
-## 📊 Dataset / Files
-بما إن حجم ملف البيانات الكبير (222MB) لا يمكن رفعه مباشرة على GitHub، يمكنك تحميله ومراجعته من خلال رابط Google Drive التالي:
-- [📥 تحميل ملف البيانات والبروجيكت من Google Drive](https://docs.google.com/spreadsheets/d/16KWxYcL-YmmoSlGh7wP0Q0wKLVk37YUp/edit?usp=sharing&ouid=108484500636832785713&rtpof=true&sd=true)
+## 📊 Dataset & Files
+بما أن حجم ملف البيانات كبير (222MB) ويتجاوز الحد الأقصى المسموح به للرفع المباشر على GitHub، يمكنك تحميل الملف والاطلاع عليه مباشرة من خلال رابط Google Drive المخصص للتحميل الفوري:
+
+- [📥 تحميل ملف البيانات والبروجيكت الكامل (222MB)](https://drive.google.com/uc?export=download&id=16KWxYcL-YmmoSlGh7wP0Q0wKLVk37YUp)
 
 ---
+*ملاحظة: الرابط مصمم ليبدأ التحميل الفوري للملف بمجرد الضغط عليه لتسهيل مراجعة المشروع.*
