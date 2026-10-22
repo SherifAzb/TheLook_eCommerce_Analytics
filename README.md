@@ -38,4 +38,4 @@ Due to GitHub's file size limitations, the complete project workbook and raw dat
 ## 📬 Contact & Portfolio
 **Sherif Ayman** — *Data Analyst & BI Developer*[cite: 2]
 - 🌐 **Portfolio:** [sherifazb.github.io](https://sherifazb.github.io)
-- 💼 **GitHub:** [@SherifAzb](https://github.com/SherifAzb)[cite: 1, 2]
+- 💼 **GitHub:** [@SherifAzb](https://github.com/SherifAzb)
