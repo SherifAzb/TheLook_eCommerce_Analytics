@@ -5,7 +5,7 @@
 ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-008080?style=for-the-badge)
 
 ## 📌 Project Overview
-![Dashboard Preview](your_screenshot_name.png)
+![Dashboard Preview](Screenshot 2026-10-22 180702.png)
 An end-to-end data analytics case study on **TheLook eCommerce** dataset[cite: 2]. This project explores sales performance, customer purchasing behavior, product profitability, and operational efficiency to uncover actionable business insights and drive data-backed decision-making.
 
 ---
